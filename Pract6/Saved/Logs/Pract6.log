@@ -1366,3 +1366,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.30-13.13.25:902][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/BP_Actor]
 [2023.10.30-13.13.25:932][383]LogSavePackage: Moving '../../../../../Git_Projects/Practise6/Pract6/Saved/BP_Actor_Auto39E88D7B643282D889F7DE49AD628853B.tmp' to '../../../../../Git_Projects/Practise6/Pract6/Saved/Autosaves/Game/TopDownBP/Blueprints/BP_Actor_Auto3.uasset'
 [2023.10.30-13.13.25:932][383]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.10.30-13.14.13:431][581]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.929 sec). This should never happen. Something is wrong with the timer delegate!
